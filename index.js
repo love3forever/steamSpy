@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import Index from './js';
 
-AppRegistry.registerComponent('steamSpy', () => App);
+AppRegistry.registerComponent('steamSpy', () => Index);
